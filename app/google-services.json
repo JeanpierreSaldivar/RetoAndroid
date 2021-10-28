@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574479566381",
+    "project_id": "retoandroid-4fd92",
+    "storage_bucket": "retoandroid-4fd92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574479566381:android:5b280f76dd3b405866daa4",
+        "android_client_info": {
+          "package_name": "com.saldivar.retoandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574479566381-llkiil0re5p67k7tfnf9obig5777t61o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT5F6O9oxtwL7E2iJwAlY9xYIZ-6CRiT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574479566381-llkiil0re5p67k7tfnf9obig5777t61o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
